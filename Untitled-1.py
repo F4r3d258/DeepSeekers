@@ -1,7 +1,13 @@
 print("Ni idea de que hago")
-<<<<<<< Updated upstream
+##### Updated upstream
 print("yo tampoco")
-def puta(a):
-=======
 print("Ni idea de que hago 2")
->>>>>>> Stashed changes
+def puta(a):
+###### HEAD
+#=======
+######Stashed changes
+#=======
+
+    def el_pepe (a):
+        print("el pepe")
+
