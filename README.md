@@ -1,0 +1,2 @@
+# DeepSeekers
+Proyecto de galactatec
